@@ -9,6 +9,7 @@ HTML, CSS, Node.js, Express.js, EJS
 
 ## API's Used 
 https://openweathermap.org/ for current temperature, humidity, aqi and other information
+
 https://ipinfo.io/ to get user region in order to render temperature for the user region
 
 ## Deployment
