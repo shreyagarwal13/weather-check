@@ -8,7 +8,8 @@ A modern web-browser like Safari, Chrome, Microsoft-Edge, Mozilla Firefox, etc.
 HTML, CSS, Node.js, Express.js, EJS 
 
 ## API's Used 
-Used API's from https://openweathermap.org/ and https://ipinfo.io/
+https://openweathermap.org/ for current temperature, humidity, aqi and other information
+https://ipinfo.io/ to get user region in order to render temperature for the user region
 
 ## Deployment
 https://weather-check-139.herokuapp.com/
